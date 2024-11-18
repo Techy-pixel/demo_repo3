@@ -1,5 +1,6 @@
-Hola Team!
-Buenas dias!
-Mucho gusto!
+# Hola Team!
+# Buenas dias!
+# Mucho gusto!
 
-Let's learn JavaScript togethet
+Let's learn JavaScript together
+Let's Roll
